@@ -6,7 +6,7 @@
 
 projeto construido do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://rudythunder.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
